@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 25 Jun 2025 12:47:11 at http://localhost:10004/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost:10004/ -O1 "C:\Users\timon\Desktop\HTTrack\wp-playground" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:47:41	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ukmDSFXjQiQ.woff2 (from localhost:10004/)
+12:47:41	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9b4kzIxd1KFppkaRKvDRPJVDf_YhjukmDSFXjQiQ.woff2 (from localhost:10004/)
+12:47:41	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9b4kzIxd1KFppkaRKvDRPJVDf_PBjukmDSFXjQiQ.woff2 (from localhost:10004/)
+12:47:46	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1WrTN33AiasJ.woff2 (from localhost:10004/)
+12:47:47	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFxY1GrTN33AiasJ.woff2 (from localhost:10004/)
+12:47:47	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFw01GrTN33AiasJ.woff2 (from localhost:10004/)
+12:47:47	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzY02rTN33AiasJ.woff2 (from localhost:10004/)
+12:47:52	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rTN33AiasJ.woff2 (from localhost:10004/)
+12:47:52	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/0QI6MX1D_JOuGQbT0gvTJPa787wsuyJDmKxemMeZ.woff2 (from localhost:10004/)
+12:47:53	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJDmKxemMeZ.woff2 (from localhost:10004/)
+12:47:53	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFkq18ndeZzZ0.woff2 (from localhost:10004/)
+12:48:01	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Ckq18ndeZzZ0.woff2 (from localhost:10004/)
+12:48:21	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/2025/06/bg-creme-1-1024x550.png (from localhost:10004/)
+12:48:30	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/plugins/sticky-block/dist/sticky-block.min.js?ver=1.0 (from localhost:10004/)
+12:48:31	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ukmDSFXjQiQ.woff2 (from localhost:10004/)
+12:48:35	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1WrTN33AiasJ.woff2 (from localhost:10004/)
+12:48:36	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFxY1GrTN33AiasJ.woff2 (from localhost:10004/)
+12:48:36	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rTN33AiasJ.woff2 (from localhost:10004/)
+12:48:41	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJDmKxemMeZ.woff2 (from localhost:10004/)
+12:48:41	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/fonts/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Ckq18ndeZzZ0.woff2 (from localhost:10004/)
+12:48:55	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/uploads/2025/06/castle.png (from localhost:10004/blog/)
+12:52:03	Error: 	"Not Found" (404) at link localhost:10004/blog/page/2/ (from localhost:10004/blog/)
+12:52:06	Error: 	"Bad Request" (400) at link localhost:10004/wp-admin/admin-ajax.php?action=rest-nonce (from localhost:10004/blog/)
+12:52:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link localhost:10004/wp-content/uploads/fonts/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFxY1GrTN33AiasJ.woff2 (from localhost:10004/)
+12:52:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link localhost:10004/wp-content/uploads/fonts/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJDmKxemMeZ.woff2 (from localhost:10004/)
+12:52:06	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-content/plugins/ultimate-post/assets/img/loading.gif (from localhost:10004/wp-content/plugins/ultimate-post/assets/css/style.min.css?ver=4.1.31)
+12:52:07	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-json/wp/v2/posts/595 (from localhost:10004/donec-quam-felis/)
+12:52:07	Warning: 	Moved Permanently for localhost:10004/?p=595
+12:52:07	Warning: 	File has moved from localhost:10004/?p=595 to http://localhost:10004/donec-quam-felis/
+12:52:07	Warning: 	Moved Permanently for localhost:10004/?p=496
+12:52:07	Warning: 	File has moved from localhost:10004/?p=496 to http://localhost:10004/quisque-faucibus-ex-sapien-vitae-pellentesque/
+12:52:24	Warning: 	Moved Permanently for localhost:10004/?p=471
+12:52:24	Warning: 	File has moved from localhost:10004/?p=471 to http://localhost:10004/in-id-cursus-mi-pretium-tellus-duis/
+12:52:25	Warning: 	Moved Permanently for localhost:10004/?p=220
+12:52:25	Warning: 	File has moved from localhost:10004/?p=220 to http://localhost:10004/consectetur-adipiscing-elit/
+12:52:25	Error: 	"Not Found" (404) at link localhost:10004/blog/Bun/ (from localhost:10004/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0)
+12:52:25	Error: 	"Not Found" (404) at link localhost:10004/blog/Deno/ (from localhost:10004/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0)
+12:52:25	Error: 	"Not Found" (404) at link localhost:10004/blog/Node.js/ (from localhost:10004/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0)
+12:52:25	Error: 	"Not Found" (404) at link localhost:10004/blog/e (from localhost:10004/wp-includes/js/dist/url.min.js?ver=6bf93e90403a1eec6501)
+12:52:25	Warning: 	Moved Permanently for localhost:10004/?p=187
+12:52:25	Warning: 	File has moved from localhost:10004/?p=187 to http://localhost:10004/tempus-leo-eu-aenean/
+12:52:25	Warning: 	Moved Permanently for localhost:10004/?p=1
+12:52:25	Warning: 	File has moved from localhost:10004/?p=1 to http://localhost:10004/hello-world/
+12:52:25	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/tag/tag3/feed/ (from localhost:10004/tag/tag3/)
+12:52:25	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-json/wp/v2/tags/10 (from localhost:10004/tag/tag3/)
+12:52:26	Warning: 	Retry after error -4 (No data (connection closed)) at link localhost:10004/wp-json/wp/v2/tags/12 (from localhost:10004/tag/tag4/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 15 seconds : 165 links scanned, 124 files written (9713961 bytes overall) [7950314 bytes received at 25239 bytes/sec], 2635751 bytes transferred using HTTP compression in 74 files, ratio 17%, 3.7 requests per connection
+(8 errors, 38 warnings, 0 messages)

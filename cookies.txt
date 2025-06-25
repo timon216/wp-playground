@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost:10004	TRUE	/	FALSE	1999999999	ultp_view_595	1
+localhost:10004	TRUE	/	FALSE	1999999999	ultp_view_496	1
+localhost:10004	TRUE	/	FALSE	1999999999	ultp_view_471	1
+localhost:10004	TRUE	/	FALSE	1999999999	ultp_view_220	1
+localhost:10004	TRUE	/	FALSE	1999999999	ultp_view_187	1
+localhost:10004	TRUE	/	FALSE	1999999999	ultp_view_1	1
+
